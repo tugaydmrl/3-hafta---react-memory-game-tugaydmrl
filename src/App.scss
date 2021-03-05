@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+  }
+  
+.app-header {
+    background-color: #282c34;
+    min-height: 80px;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    h3 {
+        font-weight: normal;
+        color: #767676;
+    }
+}
+
+.app-cards {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 650px;
+    margin: 0 auto;
+    justify-content: center;
+}
