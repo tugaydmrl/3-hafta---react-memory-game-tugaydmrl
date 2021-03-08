@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/3-hafta---react-memory-game-tugaydmrl/static/css/main.500c965c.chunk.css",
+    "main.js": "/3-hafta---react-memory-game-tugaydmrl/static/js/main.ccf1b76f.chunk.js",
+    "main.js.map": "/3-hafta---react-memory-game-tugaydmrl/static/js/main.ccf1b76f.chunk.js.map",
+    "runtime-main.js": "/3-hafta---react-memory-game-tugaydmrl/static/js/runtime-main.ab98d34e.js",
+    "runtime-main.js.map": "/3-hafta---react-memory-game-tugaydmrl/static/js/runtime-main.ab98d34e.js.map",
+    "static/js/2.10e2d139.chunk.js": "/3-hafta---react-memory-game-tugaydmrl/static/js/2.10e2d139.chunk.js",
+    "static/js/2.10e2d139.chunk.js.map": "/3-hafta---react-memory-game-tugaydmrl/static/js/2.10e2d139.chunk.js.map",
+    "static/js/3.db1f3374.chunk.js": "/3-hafta---react-memory-game-tugaydmrl/static/js/3.db1f3374.chunk.js",
+    "static/js/3.db1f3374.chunk.js.map": "/3-hafta---react-memory-game-tugaydmrl/static/js/3.db1f3374.chunk.js.map",
+    "index.html": "/3-hafta---react-memory-game-tugaydmrl/index.html",
+    "static/css/main.500c965c.chunk.css.map": "/3-hafta---react-memory-game-tugaydmrl/static/css/main.500c965c.chunk.css.map",
+    "static/js/2.10e2d139.chunk.js.LICENSE.txt": "/3-hafta---react-memory-game-tugaydmrl/static/js/2.10e2d139.chunk.js.LICENSE.txt",
+    "static/js/3.db1f3374.chunk.js.LICENSE.txt": "/3-hafta---react-memory-game-tugaydmrl/static/js/3.db1f3374.chunk.js.LICENSE.txt",
+    "static/media/bach.64716f78.jpg": "/3-hafta---react-memory-game-tugaydmrl/static/media/bach.64716f78.jpg",
+    "static/media/beethoven.25cdcbaa.jpg": "/3-hafta---react-memory-game-tugaydmrl/static/media/beethoven.25cdcbaa.jpg",
+    "static/media/chopin.3c39e93c.jpg": "/3-hafta---react-memory-game-tugaydmrl/static/media/chopin.3c39e93c.jpg",
+    "static/media/moonlightsonata.eaace413.wav": "/3-hafta---react-memory-game-tugaydmrl/static/media/moonlightsonata.eaace413.wav",
+    "static/media/mozart.00eba333.jpg": "/3-hafta---react-memory-game-tugaydmrl/static/media/mozart.00eba333.jpg",
+    "static/media/nocturne.ba3ef565.wav": "/3-hafta---react-memory-game-tugaydmrl/static/media/nocturne.ba3ef565.wav",
+    "static/media/nutcrackersuite.a8a5e63e.wav": "/3-hafta---react-memory-game-tugaydmrl/static/media/nutcrackersuite.a8a5e63e.wav",
+    "static/media/requiem.fdee480d.wav": "/3-hafta---react-memory-game-tugaydmrl/static/media/requiem.fdee480d.wav",
+    "static/media/tchaikovsky.87569696.jpg": "/3-hafta---react-memory-game-tugaydmrl/static/media/tchaikovsky.87569696.jpg",
+    "static/media/toccataandfugue.261d237c.wav": "/3-hafta---react-memory-game-tugaydmrl/static/media/toccataandfugue.261d237c.wav",
+    "static/media/trebleclef.6cd2e20a.png": "/3-hafta---react-memory-game-tugaydmrl/static/media/trebleclef.6cd2e20a.png",
+    "static/media/violinconcertoingminor.962ad284.wav": "/3-hafta---react-memory-game-tugaydmrl/static/media/violinconcertoingminor.962ad284.wav",
+    "static/media/vivaldi.7d5419a9.jpg": "/3-hafta---react-memory-game-tugaydmrl/static/media/vivaldi.7d5419a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab98d34e.js",
+    "static/js/2.10e2d139.chunk.js",
+    "static/css/main.500c965c.chunk.css",
+    "static/js/main.ccf1b76f.chunk.js"
+  ]
+}
